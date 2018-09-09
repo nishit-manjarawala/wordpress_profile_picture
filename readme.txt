@@ -1,0 +1,1 @@
+This plugin is developed for upload profile picture of user from admin side. It's a free plugin anyone can use plugin and customize it.
